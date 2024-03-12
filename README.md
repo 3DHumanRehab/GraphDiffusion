@@ -5,21 +5,7 @@
 ![figure4](./assert/first.png)
 
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="./assert/1_pro -original-original1.gif" width="32%" height="auto">
-    <img src="./assert/2_pro -original-original (2).gif" width="32%" height="auto">
-    <img src="./assert/5_pro -original-original.gif" width="32%" height="auto">
-</div>
-<div style="display: flex; justify-content: space-between;">
-    <img src="./assert/2_pro -original-original (1).gif" width="32%" height="auto">
-    <img src="./assert/3_pro -original-original (1).gif" width="32%" height="auto">
-    <img src="./assert/4_pro -original-original.gif" width="32%" height="auto">
-</div>
-<div style="display: flex; justify-content: space-between;">
-    <img src="./assert/4_1_pro -original-original.gif" width="32%" height="auto">
-    <img src="./assert/2_pro -original-original.gif" width="32%" height="auto">
-    <img src="./assert/3_pro -original-original.gif" width="32%" height="auto">
-</div>
+
 
 ---
 
@@ -92,6 +78,21 @@ Comparison with Fastmetro, GLoT, and PyMAF.
 
 ## Results
 This repository provides several experimental results:
+<div style="display: flex; justify-content: space-between;">
+    <img src="./assert/1_pro -original-original1.gif" width="32%" height="auto">
+    <img src="./assert/2_pro -original-original (2).gif" width="32%" height="auto">
+    <img src="./assert/5_pro -original-original.gif" width="32%" height="auto">
+</div>
+<div style="display: flex; justify-content: space-between;">
+    <img src="./assert/2_pro -original-original (1).gif" width="32%" height="auto">
+    <img src="./assert/3_pro -original-original (1).gif" width="32%" height="auto">
+    <img src="./assert/4_pro -original-original.gif" width="32%" height="auto">
+</div>
+<div style="display: flex; justify-content: space-between;">
+    <img src="./assert/4_1_pro -original-original.gif" width="32%" height="auto">
+    <img src="./assert/2_pro -original-original.gif" width="32%" height="auto">
+    <img src="./assert/3_pro -original-original.gif" width="32%" height="auto">
+</div>
 
 ![table2](./assert/compare.png)
 Comparison of intra-frame prediction results
