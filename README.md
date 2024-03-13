@@ -1,5 +1,5 @@
 # [ECCV'24] ProGraph：Temporal-alignable Probability Guided Graph Topological Modeling for 3D Human Reconstruction
-### [Project Page](https://xinrui-z.github.io/prograph.github.io/) | [Model Checkpoint](https://huggingface.co/Yanggenfan/ProGraph/tree/main)
+### [Project Page](http://124.70.164.141:8081/) | [Model Checkpoint](https://huggingface.co/Yanggenfan/ProGraph/tree/main)
 
 
 ![figure4](./assert/first.png)
