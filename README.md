@@ -98,12 +98,16 @@ This repository provides several experimental results:
     <img src="./assert/3_pro -original-original.gif" width="32%" height="auto">
 </div>
 
+\
 ![table2](./assert/compare.png)
 Comparison of intra-frame prediction results
+
 ![table2](./assert/compare1.png)
-omparison of inter-frame prediction results
+Comparison of inter-frame prediction results
+
 ![figure1](./assert/human4d_hightlight.png)
 Comparison with 4DHumans.
+
 ![intro1](./assert/occur.png)
 The reconstruction results and probability distribution of human body parts during the prediction process.
 
