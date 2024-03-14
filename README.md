@@ -68,9 +68,13 @@ We provide guidelines to train and evaluate our model on Human3.6M, 3DPW and Fre
 
 ## Ablation Study
 ![ablation_study](./assert/ablation_study.png)
+
+
 Ablation in TPDist and HHLoss.
 ## Comparative Study
 ![Comparative_study](./assert/compare_study.png)
+
+
 Comparison with Fastmetro, GLoT, and PyMAF.
 
 
@@ -114,11 +118,3 @@ Our repository is modified and adapted from these amazing repositories. If you f
 - [HMR](https://github.com/akanazawa/hmr)
 - [4D-Humans](https://github.com/shubham-goel/4D-Humans)
 - [GLOT](https://github.com/sxl142/GLoT)
-
----
-
-## Contact
-Zehui Feng(zehui20020422@163.com)
-
----
-###### *This work was done @ Zhejiang Lab*
